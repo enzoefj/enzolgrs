@@ -1,0 +1,16 @@
+.btn-blue {
+    background-color: rgb(61, 58, 58);
+    
+    color : white;
+    font-size: 40px;
+    text-decoration: skyblue;
+    padding: 16px;
+    border-radius: 7px;
+    font-weight: bold;
+}
+
+.btn-blue :hover {
+    background-color: white;
+    color:black
+    
+}
