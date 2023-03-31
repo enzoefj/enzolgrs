@@ -1,0 +1,46 @@
+.banner {
+background-image:url(../page2/image1/allerplusloins.jpg);
+height: 80vh;
+background-size: cover;
+background-position: top;
+
+display:flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.banner, .banner p {
+    color: pink;
+    font-size: 60px;
+    text-shadow: rgb(143, 0, 24) 1px 0px 10px;
+}
+.titre {
+    color: white;
+    text-align: center;
+    font-size: 48px;
+    background-color: gray;
+    margin: 2px;
+  
+    
+}
+
+    .footer {
+        background-color: rgb(89, 88, 88);
+        text-align: center;
+        color: white;
+        padding: 16px;
+    }
+
+    .texte
+    {
+        background-color: black;
+        padding:60px;
+        color: white;
+        font-size: 32px;
+        
+        
+    }
+    
+
+    

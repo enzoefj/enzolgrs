@@ -1,0 +1,27 @@
+.banner {
+    
+    
+    background-image: url("../image/allerplusloins.jpg");
+    height: 85vh;
+    background-size: cover;
+    background-position: top;
+
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    
+    
+        }
+
+        .banner, .banner p {
+
+            color: pink;
+            font-size: 60px;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-shadow: rgb(143, 0, 24) 1px 0 10px;
+         
+            
+        }
+
+     
